@@ -1,5 +1,5 @@
 {
-  "serverurl": "https://cnsaas.ssdevrd.com",
+  "serverurl": "https://auto14.ssdevrd.com",
   "gid": "wmt_ae",
   "un": "wmt_ae_%MODEL%",
   "pw": "wmt_ae_%MODEL%",
@@ -30,6 +30,15 @@
     ],
     "TC25": [
       "TC25"
+    ],
+    "G981U1": [
+      "G981U1"
+    ],
+    "SM-G981U1": [
+      "SM-G981U1"
+    ],
+    "Pixel 2 XL": [
+      "Pixel 2 XL"
     ]
   }
 }
